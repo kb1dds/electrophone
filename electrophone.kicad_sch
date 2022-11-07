@@ -877,7 +877,7 @@
     (property "Reference" "R4" (id 0) (at 194.31 81.2799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "470" (id 1) (at 194.31 83.8199 0)
+    (property "Value" "10k" (id 1) (at 194.31 83.8199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 189.992 82.55 90)
@@ -896,7 +896,7 @@
     (property "Reference" "R1" (id 0) (at 149.86 81.2799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "470" (id 1) (at 149.86 83.8199 0)
+    (property "Value" "10k" (id 1) (at 149.86 83.8199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 145.542 82.55 90)
@@ -1302,7 +1302,7 @@
       (reference "Q2") (unit 1) (value "2N7000") (footprint "Package_TO_SOT_THT:TO-92_Inline")
     )
     (path "/1b404d6d-a18c-4ba9-a0dd-27042b6bd762"
-      (reference "R1") (unit 1) (value "470") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R1") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8b29aad6-dcd5-46c3-b16e-9c54262500bc"
       (reference "R2") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
@@ -1311,7 +1311,7 @@
       (reference "R3") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/1a17eedb-072f-466d-875c-a1065a4614f1"
-      (reference "R4") (unit 1) (value "470") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R4") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/106a0959-b48c-4636-bb87-8a38e97edc32"
       (reference "R5") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
